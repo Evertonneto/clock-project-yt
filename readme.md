@@ -1,14 +1,15 @@
 # Clock Project
 
 🚀 Project developed in order to simulate a digital clock!
+ℹ️ Live site URL:
 
 # desktop preview
 
-[<img src="./assets/imgs/Screenshot-desktop.png" />]
+<img src="./assets/imgs/Screenshot-desktop.png" />
 
 # mobile preview
 
-[<img src="./assets/imgs/Screenshot-mobile.png" >]
+<img src="./assets/imgs/Screenshot-mobile.png" >
 
 # built with 💻:
 
