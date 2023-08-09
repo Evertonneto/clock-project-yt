@@ -1,7 +1,8 @@
 # Clock Project
 
 🚀 Project developed in order to simulate a digital clock!
-ℹ️ Live site URL:
+
+ℹ️ Live site URL: evertonneto.github.io/clock-project-yt/
 
 # desktop preview
 
